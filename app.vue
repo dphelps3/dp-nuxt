@@ -10,7 +10,7 @@ useHead({
     },
   ],
   bodyAttrs: {
-    class: 'font-display'
+    class: 'font-display bg-zinc-700'
   }
 });
 </script>
